@@ -8,7 +8,7 @@
 
 ### <div align="center">J0ckS/</p></div>
 
-<div align="center"><a href="">Discord</a> / <a href="">Twitter</a> / <a href="">Website</a><br><br><br>
+<div align="center">[v]<a href="https://discord.gg/bTPaYs7W">Discord</a> / [x]<a href="">Twitter</a> / [x]<a href="">Website</a><br><br><br>
 --------------------------------<br>
 **/Pynet released\**<br>
 --------------------------------<br>
