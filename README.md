@@ -10,7 +10,7 @@
 
 <div align="center"><a href="">Discord</a> / <a href="">Twitter</a> / <a href="">Website</a><br><br><br>
 --------------------------------<br>
-**/Insane project coming soon\**<br>
+**/Pynet released\**<br>
 --------------------------------<br>
   
 <img src="https://img.icons8.com/pastel-glyph/64/fa314a/space-shuttle--v2.png"/><br>
