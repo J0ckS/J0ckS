@@ -25,11 +25,9 @@
 <img src="https://img.icons8.com/ios-glyphs/64/fa314a/bar-chart.png"/><br>
 Github Stats
   
-<br>  ![J0ckS's GitHub stats](https://github-readme-stats.vercel.app/api?username=J0ckS&theme=monokai&hide_border=true&show_icons=true)
+<br>  ![J0ckS's GitHub stats](https://github-readme-stats.vercel.app/api?username=J0cks&theme=monokai&hide_border=true&show_icons=true)
   
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=J0ckS&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J0ckS&layout=compact)<br><br>
+  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=J0cks&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)<br>
   
   ***
   
